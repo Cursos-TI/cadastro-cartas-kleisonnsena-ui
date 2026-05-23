@@ -1,7 +1,7 @@
 #include <stdio.h>
 
  int main() {
- //
+ //Desafio Supertrunfo
  //Cadastro de cartas Super Trunfo Nível Básico!!
  //Declaração de variáveis!!
     char pais1[20], pais2[20];
@@ -94,4 +94,3 @@
    return 0;
 
  }
- 
